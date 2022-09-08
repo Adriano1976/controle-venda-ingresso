@@ -2,7 +2,7 @@
 
 ![controle de venda de ingressos](https://user-images.githubusercontent.com/17755195/189212250-6979acfa-47c7-4687-824e-aaab23125c67.png)
 
- Esse projeto foi idealizado, como uma atividade avaliativa, seguindo as instruções dos professores responsáveis da disciplina Programação I do Curso de Análise e Desenvolvimento  de Sistemas da Unicesumar.
+ Esse projeto foi idealizado, como uma atividade avaliativa, seguindo as instruções dos professores responsáveis da disciplina Programação I do Curso de Análise e Desenvolvimento  de Sistemas da Unicesumar e usando Apache NetBeans IDE 14.
  
  ## Problema a Ser Resolvido 
  
